@@ -1,9 +1,7 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Nov 14 12:06:39 2022
 
-@author: nastaran
+"""
+@author: nastaran.mrad@maastrichtuniversity.nl
+
 """
 import numpy as np
 from sklearn.impute import SimpleImputer
