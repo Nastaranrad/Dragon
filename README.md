@@ -1,4 +1,4 @@
-# Dragon WP8 : prediction of COVID-19 severity
+# Dragon WP8: detection of COVID-19 severity
 
 
 :wave: A <a href="https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html"> ***Random Forest classifier***</a> is applied on the clinical and demographics data to identify the severity of COVID-19. 
@@ -6,6 +6,7 @@
 
 ## Evaluation and Results:
 10-fold cross validation was used for the model evaluation. We computed the Area Under the Receiver Operating Characteristic Curve to evaluate the classification performance.
+AUC = 0.90 +/ 0.01
 
 
 ### Feature importance based on feature permutation (for more information see <a href="https://scikit-learn.org/stable/modules/permutation_importance.html#permutation-importance">this link</a>):
