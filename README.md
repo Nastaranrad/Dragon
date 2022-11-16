@@ -6,7 +6,7 @@
 
 ## Evaluation and Results:
 10-fold cross validation was used for the model evaluation. We computed the Area Under the Receiver Operating Characteristic Curve to evaluate the classification performance.
-AUC = 0.90 +/ 0.01
+AUC = 0.90 +/- 0.01
 
 
 ### Feature importance based on feature permutation (for more information see <a href="https://scikit-learn.org/stable/modules/permutation_importance.html#permutation-importance">this link</a>):
