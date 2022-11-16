@@ -1,7 +1,7 @@
 # Dragon WP8 : prediction of COVID-19 severity
 
 
-:wave: A Random Forest classifier <a href="https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html"> is applied on the clinical and demographics data to identify the severity of COVID-19. 
+:wave: A <a href="https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html"> Random Forest classifier is applied on the clinical and demographics data to identify the severity of COVID-19. 
 
 
 ## Evaluation and Results:
@@ -10,7 +10,7 @@
 
 ### Feature importance based on feature permutation:
 
-![](https://github.com/Nastaranrad/Dragon/master/pics/FeatureImportance.png)
+![](https://github.com/Nastaranrad/Dragon/tree/main/pics/FeatureImportance.png)
 
 ### Python package requirements:
 
