@@ -1,8 +1,8 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
+
 """
 
-@author: nastaran
+@author: nastaran.mrad@maastrichtuniversity.nl
+
 """
 
 import numpy as np
