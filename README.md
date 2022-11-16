@@ -20,5 +20,5 @@
 * pyreadstat 1.1.9
 
 ### Instruction for running the script:
-* Set the path to the original data (.SAV format) in the <https://github.com/Nastaranrad/Dragon/blob/main/clinical_data_analysis.py>***clinical_data_analysis***</a>
-* For multi-class classification, you need to change ***y*** in the <https://github.com/Nastaranrad/Dragon/blob/main/clinical_data_analysis.py>***clinical_data_analysis***</a> with the corresponding multi-class labels.
+* Set the path to the original data (.SAV format) in the <a href=https://github.com/Nastaranrad/Dragon/blob/main/clinical_data_analysis.py>***clinical_data_analysis***</a>
+* For multi-class classification, you need to change ***y*** in the <a href=https://github.com/Nastaranrad/Dragon/blob/main/clinical_data_analysis.py>***clinical_data_analysis***</a> with the corresponding multi-class labels.
