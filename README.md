@@ -12,6 +12,7 @@ AUC = 0.90 +/- 0.01
 ### Feature importance based on feature permutation (for more information see <a href="https://scikit-learn.org/stable/modules/permutation_importance.html#permutation-importance">this link</a>):
 
 ![](https://github.com/Nastaranrad/Dragon/blob/main/pics/FeatureImportance.png)
+* based on the analysis, Smoking and Sym_Dia are the most important features.
 
 ### Python package requirements:
 
